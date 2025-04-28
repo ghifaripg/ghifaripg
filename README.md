@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ghifaripg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cyber+Security+Student;Cloud+Computing+Enthusiast;Learning+Everyday;Let's+Connect!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cyber+Security+Student;Cloud+Computing+Enthusiast;Let's+Connect!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,8 +12,8 @@
 
 - 🎓 Student at President University, expected to graduate in 2025
 - 🌱 Currently exploring Cybersecurity, Cloud Computing, and Web Development
-- 🤝 Open to collaborate on tech projects and cybersecurity research
-- 💬 Feel free to ask me about anything tech-related!
+- 🤝 Open to collaborate on tech projects
+- 💬 Feel free to ask me about anything!
 - 📍 Based in Banten, Indonesia
 
 ---
@@ -47,6 +47,4 @@
 <a href="mailto:ghifarip0g@gmail.com" target="_blank">![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ---
-
-# 💬 Personal Quote
-> *"Structure creates clarity, and creativity solves complexity."*
+> *"Thank You for Visiting My Profile"*
