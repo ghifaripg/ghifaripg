@@ -36,8 +36,8 @@
 ## 📊 GitHub Statistics
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghifaripg&hide=issues&show_icons=true&title_color=687EFF&icon_color=687EFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghifaripg&layout=compact&title_color=687EFF" alt="Most Used Language"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghifaripg&theme=tokyonight&hide=issues&show_icons=true&title_color=687EFF&icon_color=687EFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghifaripg&theme=tokyonight&layout=compact&title_color=687EFF" alt="Most Used Language"/>
 </p>
 
 <p align="center">
