@@ -1,39 +1,52 @@
-## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='35' align="left"/> Hello there!
+# 🚀 Ghifari Prayuga Gunawan (Ghifari)
 
-I'm **Ghifari Prayuga Gunawana**, an Informatics student majoring in Cyber Security at President University (expected to graduate 2025)!  
-I’m passionate about **Information Technology**, **Cloud Computing**, and **Cybersecurity**.  
-Always eager to learn, improve, and take on new challenges — whether working solo or collaborating with a team. 🚀
-
-- 📍 Based in Banten, Indonesia
-- 🎓 Student at President University
-- 🌱 Currently learning deeper about Cybersecurity & Cloud
-- 💬 Feel free to ask me anything about tech or student life!
-
----
-
-## ⚙️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghifaripg&hide=issues&show_icons=true&title_color=687EFF&icon_color=687EFF" alt="Ghifari's GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghifaripg&layout=compact&title_color=687EFF" alt="Ghifari's Most Used Languages" height="180em"/>
+  <a href="https://github.com/ghifaripg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cyber+Security+Student;Cloud+Computing+Enthusiast;Learning+Everyday;Let's+Connect!" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 📫 Reach Me
-<a href="mailto:ghifarip0g@gmail.com" target="_blank">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/ghifariprayuga/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='35' align="left"/> Hello there!
+
+- 🎓 Student at President University, expected to graduate in 2025
+- 🌱 Currently exploring Cybersecurity, Cloud Computing, and Web Development
+- 🤝 Open to collaborate on tech projects and cybersecurity research
+- 💬 Feel free to ask me about anything tech-related!
+- 📍 Based in Banten, Indonesia
 
 ---
 
-> 🌟 *"Thank You for Visiting my Profile"* 🌟
+## ⚙️ Tech Stack
+
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-%23DD4B25?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%236B7DB0?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23376B9B?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Frameworks
+![Linux](https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghifaripg&hide=issues&show_icons=true&title_color=687EFF&icon_color=687EFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghifaripg&layout=compact&title_color=687EFF" alt="Most Used Language"/>
+</p>
+
+---
+
+## 📫 Let's Connect!
+<a href="https://linkedin.com/in/ghifariprayuga/" target="_blank">![Linkedin](https://img.shields.io/badge/LINKEDIN-%230063C1?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:ghifarip0g@gmail.com" target="_blank">![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+---
+
+# 💬 Personal Quote
+> *"Structure creates clarity, and creativity solves complexity."*
