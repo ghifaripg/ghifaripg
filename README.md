@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ghifaripg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Cyber+Security+Student;Cloud+Computing+Enthusiast;Let's+Connect!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Informatics+Student;Cyber+Security+Enthusiast;Cloud+Computing+Enthusiast;Let's+Connect!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,11 +10,7 @@
 
 ## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='35' align="left"/> Hello there!
 
-- Student at President University, expected to graduate in 2025
-- Currently exploring Cybersecurity, Cloud Computing, and Web Development
-- Open to collaborate on tech projects
-- Feel free to ask me about anything!
-- Based in Banten, Indonesia
+I am a student at President University, expected to graduate in 2025. Currently, I am exploring the fields of Cybersecurity, Cloud Computing, and Web Development. I am open to collaborating on exciting tech projects and always eager to connect with others, so feel free to ask me anything! I am based in Banten, Indonesia.
 
 ---
 
